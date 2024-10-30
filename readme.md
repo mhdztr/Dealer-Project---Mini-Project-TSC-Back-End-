@@ -19,7 +19,10 @@ npm i moment
 npm i node-fetch
 npm i prompt-sync
 ```
-
+Then copy this script to clone this repository into your system
+``` bash
+git clone https://github.com/mhdztr/Dealer-Project-With-Javascript--Mini-Project-TSC-Back-End.git
+```
 Create a connection with your MySQL using SQLTools or any of your desired SQL Connectors
 
 ``` bash
