@@ -155,7 +155,7 @@ Body:
 ### DELETE /bike-data/:id
 Remove bike model on the database based on ID (swap :id with bike's serial ID)
 
-### PUT /car-data/:id
+### PUT /bike-data/:id
 Update bike model on the database based on ID (swap :id with bike's serial ID)
 To Update, type in
 Body: 
