@@ -108,7 +108,8 @@ Body:
     "serialID": "A109",
     "model": "GO Plus Panca",
     "brand": "Datsun",
-    "car_type": "2100 cc","ava_status": "rent",
+    "car_type": "2100 cc",
+    "ava_status": "rent",
     "price": 2500000
 
 ```
@@ -124,7 +125,8 @@ Body:
 {
     "model": "GO Plus Panca",
     "brand": "Datsun",
-    "car_type": "2100 cc","ava_status": "rent",
+    "car_type": "2100 cc",
+    "ava_status": "rent",
     "price": 2500000
 }
 ```
